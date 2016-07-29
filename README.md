@@ -7,14 +7,14 @@ Simlpe MailJet client for Elixir
 Send Email
 Get Stats
 
-**TODO: Add description**
+**TODO:**
 
 A Lot of features
 
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+If [available in Hex](https://hex.pm/packages/mailjet), the package can be installed as:
 
   1. Add mailjet to your list of dependencies in `mix.exs`:
 
