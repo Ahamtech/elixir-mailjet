@@ -30,7 +30,7 @@ If [available in Hex](https://hex.pm/packages/mailjet), the package can be insta
 
 # License
 
-Elixir-Mailjet is Copyright © 2016 Ahamtech. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ahamtech/TB10/blob/master/LICENSE) file.
+Elixir-Mailjet is Copyright © 2016 Ahamtech. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ahamtech/elixir-mailjet/blob/master/LICENSE) file.
 
 # About Ahamtech
 
